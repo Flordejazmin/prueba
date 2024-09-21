@@ -3,11 +3,12 @@ project:
 
 book:
   title: "prueba"
-  author: "Norah Jones"
+  author: "Jazmin Flores"
   date: "20/9/2024"
   chapters:
     - index.qmd
     - intro.qmd
+    -PROYECTO.qmd
     - summary.qmd
     - references.qmd
 
